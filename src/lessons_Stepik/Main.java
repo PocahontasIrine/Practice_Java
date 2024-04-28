@@ -4,7 +4,7 @@ import java.util.GregorianCalendar;
 import java.util.Scanner;
 import java.util.Calendar;
 
-public class Main {
+public class lessons_Stepik.Hello.Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 /*

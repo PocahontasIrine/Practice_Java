@@ -1,3 +1,5 @@
+package lessons_Stepik;
+
 import java.util.Scanner;
 public class Main1 {
 //    public static void main(String[] args) {
@@ -34,7 +36,7 @@ public class Main1 {
 
 ////Сумма чисел
 //import java.util.Scanner;
-//public class Main {
+//public class lessons_Stepik.Hello.Main {
 //    public static void main(String[] args) {
 //        Scanner scan = new Scanner(System.in);
 //        int a = scan.nextInt();
@@ -45,7 +47,7 @@ public class Main1 {
 //
 ////Переворот
 //import java.util.Scanner;
-//public class Main {
+//public class lessons_Stepik.Hello.Main {
 //    public static void main(String[] args) {
 //        Scanner scan = new Scanner(System.in);
 //        String[] inputs = scan.nextLine().split(" ");
@@ -56,7 +58,7 @@ public class Main1 {
 //}
 ////Выражение
 //import java.util.Scanner;
-//public class Main {
+//public class lessons_Stepik.Hello.Main {
 //    public static void main(String[] args) {
 //        Scanner scan = new Scanner(System.in);
 //        int a = 1;
@@ -84,7 +86,7 @@ public class Main1 {
 //
 ////Белочки и орешки - 1
 //import java.util.Scanner;
-//public class Main {
+//public class lessons_Stepik.Hello.Main {
 //    public static void main(String[] args) {
 //        Scanner scan = new Scanner(System.in);
 //        int a = scan.nextInt();
