@@ -1,4 +1,4 @@
-package lab4.var2.task5;
+/*package lab4.var2.task5;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,3 +6,4 @@ public class Main {
         b.someMethod();
     }
 }
+*/
